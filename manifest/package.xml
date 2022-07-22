@@ -5,6 +5,7 @@
         <name>Layout</name>
     </types>
     <types>
+        <members>Account.Close_Date__c</members>
         <members>Account.DemoField__c</members>
         <members>Account.Open_Date__c</members>
         <members>Account.Test_AR_Field__c</members>
