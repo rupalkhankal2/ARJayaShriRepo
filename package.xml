@@ -10,5 +10,9 @@
         <members>Account.Test_AR_Field__c</members>
         <name>CustomField</name>
     </types>
+    <types>
+        <members>Admin</members>
+        <name>Profile</name>
+    </types>
     <version>54.0</version>
 </Package>
